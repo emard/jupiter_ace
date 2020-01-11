@@ -1,6 +1,6 @@
 // module port
 //
-module HDMI_out(
+module dvi(
   input  wire pixclk,
   input  wire pixclk_x5,
   input  wire [7:0] red, green, blue,
